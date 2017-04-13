@@ -11,3 +11,6 @@
 
 $server = "term12msk"
 RDP_Resetfailure($server)
+
+
+#testtest

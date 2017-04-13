@@ -15,3 +15,4 @@ RDP_Resetfailure($server)
 
 #testtest
 #testtest2
+#del testtest2
